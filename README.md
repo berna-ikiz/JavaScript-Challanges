@@ -70,5 +70,3 @@ Input: 20 -> Output: RED
 
 - Node.js (if running via terminal)
 - A modern web browser (if running via browser console)
-
-Enjoy coding! 🚀
